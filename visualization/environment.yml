@@ -1,4 +1,4 @@
-name: acse-4-p3
+name: Optimisation_mineral_recovery
 dependencies:
  - graphviz
  - python-graphviz
