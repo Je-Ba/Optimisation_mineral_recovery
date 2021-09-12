@@ -67,10 +67,10 @@ RM = /usr/local/Cellar/cmake/3.19.4/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/changbenson/Github/acse-4-gormanium-rush-cuprite
+CMAKE_SOURCE_DIR = /Users/changbenson/Github/Optimisation_mineral_recovery
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/changbenson/Github/acse-4-gormanium-rush-cuprite
+CMAKE_BINARY_DIR = /Users/changbenson/Github/Optimisation_mineral_recovery
 
 #=============================================================================
 # Targets provided globally by CMake.
