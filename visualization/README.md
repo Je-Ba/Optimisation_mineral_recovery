@@ -8,7 +8,7 @@ The example python script requires a working python installation of Graphviz. Fo
 
 ```
 conda env create -f environment.yml
-conda activate acse-4-p3
+conda activate min_recov
 pip install -r requirements.txt
 ```
 
