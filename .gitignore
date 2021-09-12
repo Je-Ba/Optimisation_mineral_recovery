@@ -1,0 +1,10 @@
+
+*.db
+.vs/acse-4-gormanium-rush-cuprite/v16/Browse.VC.db-shm
+.vs/acse-4-gormanium-rush-cuprite/v16/Browse.VC.db-wal
+.vs/acse-4-gormanium-rush-cuprite/v16/Browse.VC.opendb
+.vs/acse-4-gormanium-rush-cuprite/v16/ipch/AutoPCH/bb66e95c56efc765/EVALUATE_CIRCUIT.ipch
+.vs/slnx.sqlite
+.vs/acse-4-gormanium-rush-cuprite/v16/.suo
+.vs/acse-4-gormanium-rush-cuprite/v16/ipch/AutoPCH/f7acd7fe90a4015d/TEST2.ipch
+*.ipch
